@@ -1,0 +1,14 @@
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\bin\Debug\net7.0\MPV_LAB5.exe
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\bin\Debug\net7.0\MPV_LAB5.deps.json
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\bin\Debug\net7.0\MPV_LAB5.runtimeconfig.json
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\bin\Debug\net7.0\MPV_LAB5.dll
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\bin\Debug\net7.0\MPV_LAB5.pdb
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\MPV_LAB5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\MPV_LAB5.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\MPV_LAB5.AssemblyInfo.cs
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\MPV_LAB5.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\MPV_LAB5.dll
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\refint\MPV_LAB5.dll
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\MPV_LAB5.pdb
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\MPV_LAB5.genruntimeconfig.cache
+C:\Users\Егор\Desktop\Программная инженерия\Семестр 6\Методы параллельных вычислений\лаба 5\MPV_LAB5\MPV_LAB5\obj\Debug\net7.0\ref\MPV_LAB5.dll
